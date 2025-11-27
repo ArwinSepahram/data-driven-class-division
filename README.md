@@ -40,6 +40,8 @@ This script will create several visuals and output some results from the tests t
 
 Note*: If you are on mac or for whatever reason python filename.py command to run does not work for you, you can try python3 filename.py. If that doesn't work either just cick the play button. 
 
+Note*: The analysis report is also available as a pdf file.
+
 
 
 
